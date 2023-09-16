@@ -1,0 +1,127 @@
+---
+object: card
+id: 197ac76c-34c0-4d3b-868b-aa395edb221e
+oracle_id: 4ac9116f-36bc-4d71-b696-d6ee064e1d58
+multiverse_ids:
+- 135240
+mtgo_id: 27584
+mtgo_foil_id: 27585
+tcgplayer_id: 15181
+cardmarket_id: 16492
+name: Juggernaut
+lang: en
+released_at: '2007-07-13'
+uri: https://api.scryfall.com/cards/197ac76c-34c0-4d3b-868b-aa395edb221e
+scryfall_uri: https://scryfall.com/card/10e/328/juggernaut?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/9/197ac76c-34c0-4d3b-868b-aa395edb221e.jpg?1562544399
+  normal: https://cards.scryfall.io/normal/front/1/9/197ac76c-34c0-4d3b-868b-aa395edb221e.jpg?1562544399
+  large: https://cards.scryfall.io/large/front/1/9/197ac76c-34c0-4d3b-868b-aa395edb221e.jpg?1562544399
+  png: https://cards.scryfall.io/png/front/1/9/197ac76c-34c0-4d3b-868b-aa395edb221e.png?1562544399
+  art_crop: https://cards.scryfall.io/art_crop/front/1/9/197ac76c-34c0-4d3b-868b-aa395edb221e.jpg?1562544399
+  border_crop: https://cards.scryfall.io/border_crop/front/1/9/197ac76c-34c0-4d3b-868b-aa395edb221e.jpg?1562544399
+mana_cost: "{4}"
+cmc: 4.0
+type_line: Artifact Creature — Juggernaut
+oracle_text: |-
+  Juggernaut attacks each combat if able.
+  Juggernaut can't be blocked by Walls.
+power: '5'
+toughness: '3'
+colors: []
+color_identity: []
+keywords: []
+all_parts:
+- object: related_card
+  id: 56137a4a-6e5f-4049-b0f2-f70aa5be5199
+  component: combo_piece
+  name: Juggernaut Peddler
+  type_line: Creature — Human Artificer
+  uri: https://api.scryfall.com/cards/56137a4a-6e5f-4049-b0f2-f70aa5be5199
+- object: related_card
+  id: 197ac76c-34c0-4d3b-868b-aa395edb221e
+  component: combo_piece
+  name: Juggernaut
+  type_line: Artifact Creature — Juggernaut
+  uri: https://api.scryfall.com/cards/197ac76c-34c0-4d3b-868b-aa395edb221e
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a66a6124-0d81-488d-b080-91f5ba7fbad0
+set: 10e
+set_name: Tenth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/a66a6124-0d81-488d-b080-91f5ba7fbad0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A10e&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/10e?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/197ac76c-34c0-4d3b-868b-aa395edb221e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4ac9116f-36bc-4d71-b696-d6ee064e1d58&unique=prints
+collector_number: '328'
+digital: false
+rarity: uncommon
+flavor_text: Built with neither a way to steer nor a way to stop, the juggernauts
+  were simply aimed at an enemy's best defenses and told to charge.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Arnie Swekel
+artist_ids:
+- af10ecf2-eb82-4100-97b2-6c236b0fa644
+illustration_id: 623503ff-f36f-49af-91bb-7afacda389c8
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15929
+penny_rank: 7913
+prices:
+  usd: '0.25'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.44'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135240
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Juggernaut&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Juggernaut&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Juggernaut
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/15181?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Juggernaut&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/27584?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

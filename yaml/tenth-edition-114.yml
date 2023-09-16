@@ -1,0 +1,113 @@
+---
+object: card
+id: 3caf69d0-58bd-4cd1-9108-56e6cbf882e4
+oracle_id: 192f3c8a-1120-4f7f-ae0f-fe9bde59cd08
+multiverse_ids:
+- 132071
+mtgo_id: 27721
+mtgo_foil_id: 27722
+tcgplayer_id: 15356
+cardmarket_id: 16278
+name: Telling Time
+lang: en
+released_at: '2007-07-13'
+uri: https://api.scryfall.com/cards/3caf69d0-58bd-4cd1-9108-56e6cbf882e4
+scryfall_uri: https://scryfall.com/card/10e/114/telling-time?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/c/3caf69d0-58bd-4cd1-9108-56e6cbf882e4.jpg?1562546508
+  normal: https://cards.scryfall.io/normal/front/3/c/3caf69d0-58bd-4cd1-9108-56e6cbf882e4.jpg?1562546508
+  large: https://cards.scryfall.io/large/front/3/c/3caf69d0-58bd-4cd1-9108-56e6cbf882e4.jpg?1562546508
+  png: https://cards.scryfall.io/png/front/3/c/3caf69d0-58bd-4cd1-9108-56e6cbf882e4.png?1562546508
+  art_crop: https://cards.scryfall.io/art_crop/front/3/c/3caf69d0-58bd-4cd1-9108-56e6cbf882e4.jpg?1562546508
+  border_crop: https://cards.scryfall.io/border_crop/front/3/c/3caf69d0-58bd-4cd1-9108-56e6cbf882e4.jpg?1562546508
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Look at the top three cards of your library. Put one of those cards into
+  your hand, one on top of your library, and one on the bottom of your library.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a66a6124-0d81-488d-b080-91f5ba7fbad0
+set: 10e
+set_name: Tenth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/a66a6124-0d81-488d-b080-91f5ba7fbad0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A10e&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/10e?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3caf69d0-58bd-4cd1-9108-56e6cbf882e4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A192f3c8a-1120-4f7f-ae0f-fe9bde59cd08&unique=prints
+collector_number: '114'
+digital: false
+rarity: uncommon
+flavor_text: Mastery is achieved when "telling time" becomes "telling time what to
+  do."
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Scott M. Fischer
+artist_ids:
+- 23b0cf43-3e43-44c6-8329-96446eca5bce
+illustration_id: b2c29078-6b74-4294-af4f-8b011e2aeb7a
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 4104
+penny_rank: 2248
+prices:
+  usd: '0.31'
+  usd_foil: '4.21'
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: '3.95'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=132071
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Telling+Time&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Telling+Time&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Telling+Time
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/15356?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Telling+Time&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/27721?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

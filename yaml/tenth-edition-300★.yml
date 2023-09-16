@@ -1,0 +1,112 @@
+---
+object: card
+id: 72b34009-9398-476d-85b1-ad2f397199c0
+oracle_id: c270c770-91ed-4540-b281-c4b60b943b34
+multiverse_ids: []
+tcgplayer_id: 15337
+cardmarket_id: 16464
+name: Stampeding Wildebeests
+lang: en
+released_at: '2007-07-13'
+uri: https://api.scryfall.com/cards/72b34009-9398-476d-85b1-ad2f397199c0
+scryfall_uri: https://scryfall.com/card/10e/300%E2%98%85/stampeding-wildebeests?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/2/72b34009-9398-476d-85b1-ad2f397199c0.jpg?1562549712
+  normal: https://cards.scryfall.io/normal/front/7/2/72b34009-9398-476d-85b1-ad2f397199c0.jpg?1562549712
+  large: https://cards.scryfall.io/large/front/7/2/72b34009-9398-476d-85b1-ad2f397199c0.jpg?1562549712
+  png: https://cards.scryfall.io/png/front/7/2/72b34009-9398-476d-85b1-ad2f397199c0.png?1562549712
+  art_crop: https://cards.scryfall.io/art_crop/front/7/2/72b34009-9398-476d-85b1-ad2f397199c0.jpg?1562549712
+  border_crop: https://cards.scryfall.io/border_crop/front/7/2/72b34009-9398-476d-85b1-ad2f397199c0.jpg?1562549712
+mana_cost: "{2}{G}{G}"
+cmc: 4.0
+type_line: Creature — Antelope Beast
+oracle_text: |-
+  Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+  At the beginning of your upkeep, return a green creature you control to its owner's hand.
+power: '5'
+toughness: '4'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a66a6124-0d81-488d-b080-91f5ba7fbad0
+set: 10e
+set_name: Tenth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/a66a6124-0d81-488d-b080-91f5ba7fbad0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A10e&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/10e?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/72b34009-9398-476d-85b1-ad2f397199c0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac270c770-91ed-4540-b281-c4b60b943b34&unique=prints
+collector_number: 300★
+digital: false
+rarity: uncommon
+flavor_text: The most violent and destructive storms in Femeref occur on cloudless
+  days.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Randy Gallegos
+artist_ids:
+- a5048cc7-438a-4378-98e4-da99b78e1db0
+illustration_id: b2dcaccf-2a72-4988-892a-84945a96331f
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18668
+penny_rank: 8928
+prices:
+  usd: 
+  usd_foil: '0.66'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.10'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Stampeding+Wildebeests&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Stampeding+Wildebeests&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Stampeding+Wildebeests
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/15337?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Stampeding+Wildebeests&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Stampeding+Wildebeests&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

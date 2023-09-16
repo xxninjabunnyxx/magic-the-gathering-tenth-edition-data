@@ -1,0 +1,109 @@
+---
+object: card
+id: 6acf7453-1229-4758-bb17-8afc7dffa9a0
+oracle_id: a3a98bc9-caa0-49b7-951c-fe4e4f54e4ba
+multiverse_ids: []
+tcgplayer_id: 15237
+cardmarket_id: 16500
+name: Ornithopter
+lang: en
+released_at: '2007-07-13'
+uri: https://api.scryfall.com/cards/6acf7453-1229-4758-bb17-8afc7dffa9a0
+scryfall_uri: https://scryfall.com/card/10e/336%E2%98%85/ornithopter?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/a/6acf7453-1229-4758-bb17-8afc7dffa9a0.jpg?1562549276
+  normal: https://cards.scryfall.io/normal/front/6/a/6acf7453-1229-4758-bb17-8afc7dffa9a0.jpg?1562549276
+  large: https://cards.scryfall.io/large/front/6/a/6acf7453-1229-4758-bb17-8afc7dffa9a0.jpg?1562549276
+  png: https://cards.scryfall.io/png/front/6/a/6acf7453-1229-4758-bb17-8afc7dffa9a0.png?1562549276
+  art_crop: https://cards.scryfall.io/art_crop/front/6/a/6acf7453-1229-4758-bb17-8afc7dffa9a0.jpg?1562549276
+  border_crop: https://cards.scryfall.io/border_crop/front/6/a/6acf7453-1229-4758-bb17-8afc7dffa9a0.jpg?1562549276
+mana_cost: "{0}"
+cmc: 0.0
+type_line: Artifact Creature — Thopter
+oracle_text: Flying
+power: '0'
+toughness: '2'
+colors: []
+color_identity: []
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a66a6124-0d81-488d-b080-91f5ba7fbad0
+set: 10e
+set_name: Tenth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/a66a6124-0d81-488d-b080-91f5ba7fbad0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A10e&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/10e?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6acf7453-1229-4758-bb17-8afc7dffa9a0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3a98bc9-caa0-49b7-951c-fe4e4f54e4ba&unique=prints
+collector_number: 336★
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "It has been my honor to improve on the Thran's original design. Perhaps history will remember me in some small part for my work."
+  —Urza, in his apprenticeship
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dana Knutson
+artist_ids:
+- 4eac683c-8c96-4f57-b8a4-ad7f7b7c44c7
+illustration_id: 732b9541-e298-4f80-8633-9f29bb0db175
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 694
+penny_rank: 210
+prices:
+  usd: 
+  usd_foil: '8.99'
+  usd_etched: 
+  eur: 
+  eur_foil: '2.48'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ornithopter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ornithopter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ornithopter
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/15237?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ornithopter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ornithopter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

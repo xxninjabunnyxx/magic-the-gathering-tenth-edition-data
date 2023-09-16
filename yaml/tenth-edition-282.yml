@@ -1,0 +1,126 @@
+---
+object: card
+id: 8ba4e513-a8a7-4338-99de-b9303813d086
+oracle_id: bdb3ca68-ec1f-4e16-81cc-d23f8f52c728
+multiverse_ids:
+- 129656
+mtgo_id: 27558
+mtgo_foil_id: 27559
+tcgplayer_id: 15231
+cardmarket_id: 16446
+name: Naturalize
+lang: en
+released_at: '2007-07-13'
+uri: https://api.scryfall.com/cards/8ba4e513-a8a7-4338-99de-b9303813d086
+scryfall_uri: https://scryfall.com/card/10e/282/naturalize?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/b/8ba4e513-a8a7-4338-99de-b9303813d086.jpg?1562551320
+  normal: https://cards.scryfall.io/normal/front/8/b/8ba4e513-a8a7-4338-99de-b9303813d086.jpg?1562551320
+  large: https://cards.scryfall.io/large/front/8/b/8ba4e513-a8a7-4338-99de-b9303813d086.jpg?1562551320
+  png: https://cards.scryfall.io/png/front/8/b/8ba4e513-a8a7-4338-99de-b9303813d086.png?1562551320
+  art_crop: https://cards.scryfall.io/art_crop/front/8/b/8ba4e513-a8a7-4338-99de-b9303813d086.jpg?1562551320
+  border_crop: https://cards.scryfall.io/border_crop/front/8/b/8ba4e513-a8a7-4338-99de-b9303813d086.jpg?1562551320
+mana_cost: "{1}{G}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Destroy target artifact or enchantment.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: 8ba4e513-a8a7-4338-99de-b9303813d086
+  component: combo_piece
+  name: Naturalize
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/8ba4e513-a8a7-4338-99de-b9303813d086
+- object: related_card
+  id: 7d6fc254-dfdc-425c-9795-ef4e10459b70
+  component: combo_piece
+  name: You Line Up the Shot
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/7d6fc254-dfdc-425c-9795-ef4e10459b70
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a66a6124-0d81-488d-b080-91f5ba7fbad0
+set: 10e
+set_name: Tenth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/a66a6124-0d81-488d-b080-91f5ba7fbad0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A10e&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/10e?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8ba4e513-a8a7-4338-99de-b9303813d086/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abdb3ca68-ec1f-4e16-81cc-d23f8f52c728&unique=prints
+collector_number: '282'
+digital: false
+rarity: common
+flavor_text: |-
+  "Well, it also makes a very nice flower pot. . . ."
+  —Arcum Dagsson, Soldevi machinist
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tim Hildebrandt
+artist_ids:
+- caa7228c-f74c-4145-91fb-1af8d623c353
+illustration_id: ce36cc20-9ea8-4a82-8af3-42e602917727
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1690
+penny_rank: 5210
+prices:
+  usd: '0.10'
+  usd_foil: '0.50'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '0.18'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129656
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Naturalize&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Naturalize&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Naturalize
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/15231?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Naturalize&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/27558?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

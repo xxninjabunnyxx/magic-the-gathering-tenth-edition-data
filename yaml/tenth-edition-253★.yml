@@ -1,0 +1,111 @@
+---
+object: card
+id: 21b462ff-a130-4c0f-97e9-b096511d7abb
+oracle_id: 80ea56ad-e741-4a85-b4e8-ce62e7d593d5
+multiverse_ids: []
+tcgplayer_id: 15056
+cardmarket_id: 16417
+name: Blanchwood Armor
+lang: en
+released_at: '2007-07-13'
+uri: https://api.scryfall.com/cards/21b462ff-a130-4c0f-97e9-b096511d7abb
+scryfall_uri: https://scryfall.com/card/10e/253%E2%98%85/blanchwood-armor?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/1/21b462ff-a130-4c0f-97e9-b096511d7abb.jpg?1562544930
+  normal: https://cards.scryfall.io/normal/front/2/1/21b462ff-a130-4c0f-97e9-b096511d7abb.jpg?1562544930
+  large: https://cards.scryfall.io/large/front/2/1/21b462ff-a130-4c0f-97e9-b096511d7abb.jpg?1562544930
+  png: https://cards.scryfall.io/png/front/2/1/21b462ff-a130-4c0f-97e9-b096511d7abb.png?1562544930
+  art_crop: https://cards.scryfall.io/art_crop/front/2/1/21b462ff-a130-4c0f-97e9-b096511d7abb.jpg?1562544930
+  border_crop: https://cards.scryfall.io/border_crop/front/2/1/21b462ff-a130-4c0f-97e9-b096511d7abb.jpg?1562544930
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant creature
+  Enchanted creature gets +1/+1 for each Forest you control.
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Enchant
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a66a6124-0d81-488d-b080-91f5ba7fbad0
+set: 10e
+set_name: Tenth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/a66a6124-0d81-488d-b080-91f5ba7fbad0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A10e&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/10e?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/21b462ff-a130-4c0f-97e9-b096511d7abb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A80ea56ad-e741-4a85-b4e8-ce62e7d593d5&unique=prints
+collector_number: 253★
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "Before armor, there was bark. Before blades, there were thorns."
+  —Molimo, maro-sorcerer
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Paolo Parente
+artist_ids:
+- d48dd097-720d-476a-8722-6a02854ae28b
+illustration_id: 4c912a80-78e5-4608-8eca-54b9e0d125d9
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3448
+penny_rank: 7957
+prices:
+  usd: 
+  usd_foil: '1.80'
+  usd_etched: 
+  eur: 
+  eur_foil: '3.16'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Blanchwood+Armor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Blanchwood+Armor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Blanchwood+Armor
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/15056?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blanchwood+Armor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blanchwood+Armor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

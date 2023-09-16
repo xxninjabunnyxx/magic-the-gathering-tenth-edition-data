@@ -1,0 +1,21 @@
+---
+object: set
+id: a66a6124-0d81-488d-b080-91f5ba7fbad0
+code: 10e
+mtgo_code: 10e
+arena_code: 10e
+tcgplayer_id: 1
+name: Tenth Edition
+uri: https://api.scryfall.com/sets/a66a6124-0d81-488d-b080-91f5ba7fbad0
+scryfall_uri: https://scryfall.com/sets/10e
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A10e&unique=prints
+released_at: '2007-07-13'
+set_type: core
+card_count: 510
+printed_size: 383
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: lea
+block: Core Set
+icon_svg_uri: https://svgs.scryfall.io/sets/10e.svg?1694404800
